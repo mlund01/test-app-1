@@ -1,0 +1,7 @@
+{
+  "appname": "test-app-1",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "F9505A52-1937-42FE-9AFE-ACA00105B208",
+  "buyerid": "test-buyer",
+  "environment": "prod"
+}
